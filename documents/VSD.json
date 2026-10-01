@@ -9,17 +9,30 @@
     "email": "t00755725@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-10-01T17:49:18.213Z",
+  "lastChangedOn": "2026-10-01T18:10:14.268Z",
   "lastChangedBy": {
-    "name": "Jacob Dunn",
-    "email": "jacobfrancisd@gmail.com",
-    "company": ""
+    "name": "Esteban Flores, Jacob Dunn, Kohen Cound",
+    "email": "t00755725@mytru.ca",
+    "company": "Thompson Rivers University"
   },
   "data": [
     {
       "id": "29",
       "guid": "4d332589-b757-463c-a9d1-a318141eedd6",
-      "text": "<p><a>Revision History</a></p><table><tbody><tr><td style=\"width:1.5in;\"><p><strong>Name</strong></p></td><td style=\"width:58.5pt;\"><p><strong>Date</strong></p></td><td style=\"width:247.7pt;\"><p><strong>Reason For Changes</strong></p></td><td style=\"width:1.1in;\"><p><strong>Version</strong></p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;</p></td><td style=\"width:58.5pt;\"><p>&nbsp;</p></td><td style=\"width:247.7pt;\"><p>&nbsp;</p></td><td style=\"width:1.1in;\"><p>&nbsp;</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;</p></td><td style=\"width:58.5pt;\"><p>&nbsp;</p></td><td style=\"width:247.7pt;\"><p>&nbsp;</p></td><td style=\"width:1.1in;\"><p>&nbsp;</p></td></tr></tbody></table>"
+      "text": "<p><a>Revision History</a></p><table><tbody><tr><td style=\"width:1.5in;\"><p><strong>Name</strong></p></td><td style=\"width:58.5pt;\"><p><strong>Date</strong></p></td><td style=\"width:247.7pt;\"><p><strong>Reason For Changes</strong></p></td><td style=\"width:1.1in;\"><p><strong>Version</strong></p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Esteban&nbsp;Flores</p></td><td style=\"width:58.5pt;\"><p>&nbsp;10/1/2026</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Initial Creation of Document</p></td><td style=\"width:1.1in;\"><p>&nbsp;1.0</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;</p></td><td style=\"width:58.5pt;\"><p>&nbsp;</p></td><td style=\"width:247.7pt;\"><p>&nbsp;</p></td><td style=\"width:1.1in;\"><p>&nbsp;</p></td></tr></tbody></table>",
+      "history": [
+        {
+          "attributesChanged": {
+            "text": "<p><a>Revision History</a></p><table><tbody><tr><td style=\"width:1.5in;\"><p><strong>Name</strong></p></td><td style=\"width:58.5pt;\"><p><strong>Date</strong></p></td><td style=\"width:247.7pt;\"><p><strong>Reason For Changes</strong></p></td><td style=\"width:1.1in;\"><p><strong>Version</strong></p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;</p></td><td style=\"width:58.5pt;\"><p>&nbsp;</p></td><td style=\"width:247.7pt;\"><p>&nbsp;</p></td><td style=\"width:1.1in;\"><p>&nbsp;</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;</p></td><td style=\"width:58.5pt;\"><p>&nbsp;</p></td><td style=\"width:247.7pt;\"><p>&nbsp;</p></td><td style=\"width:1.1in;\"><p>&nbsp;</p></td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00755725@mytru.ca",
+            "name": "Esteban Flores, Jacob Dunn, Kohen Cound"
+          },
+          "changedOn": "2026-10-01T18:10:14.268Z"
+        }
+      ]
     },
     {
       "id": "30",
