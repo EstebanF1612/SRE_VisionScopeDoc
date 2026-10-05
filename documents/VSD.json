@@ -9,17 +9,17 @@
     "email": "t00755725@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-10-01T20:37:31.341Z",
+  "lastChangedOn": "2026-10-05T16:51:54.881Z",
   "lastChangedBy": {
-    "name": "T00755725",
-    "email": "t00755725@mytru.ca",
-    "company": "Thompson Rivers University"
+    "name": "Jacob Dunn",
+    "email": "jacobfrancisd@gmail.com",
+    "company": ""
   },
   "data": [
     {
       "id": "29",
       "guid": "4d332589-b757-463c-a9d1-a318141eedd6",
-      "text": "<p><a>Revision History</a></p><table><tbody><tr><td style=\"width:1.5in;\"><p><strong>Name</strong></p></td><td style=\"width:58.5pt;\"><p><strong>Date</strong></p></td><td style=\"width:247.7pt;\"><p><strong>Reason For Changes</strong></p></td><td style=\"width:1.1in;\"><p><strong>Version</strong></p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Esteban&nbsp;Flores</p></td><td style=\"width:58.5pt;\"><p>&nbsp;10/1/2026</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Initial Creation of Document</p></td><td style=\"width:1.1in;\"><p>&nbsp;1.0</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Esteban Flores</p></td><td style=\"width:58.5pt;\"><p>&nbsp;10/1/2026</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Scope and Limitations Section&nbsp;Complete</p></td><td style=\"width:1.1in;\"><p>&nbsp;2.0</p></td></tr></tbody></table>",
+      "text": "<p><a>Revision History</a></p><table><tbody><tr><td style=\"width:1.5in;\"><p><strong>Name</strong></p></td><td style=\"width:58.5pt;\"><p><strong>Date</strong></p></td><td style=\"width:247.7pt;\"><p><strong>Reason For Changes</strong></p></td><td style=\"width:1.1in;\"><p><strong>Version</strong></p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Esteban Flores</p></td><td style=\"width:58.5pt;\"><p>&nbsp;10/1/2026</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Initial Creation of Document</p></td><td style=\"width:1.1in;\"><p>&nbsp;1.0</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Esteban Flores</p></td><td style=\"width:58.5pt;\"><p>&nbsp;10/1/2026</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Scope and Limitations Section Complete</p></td><td style=\"width:1.1in;\"><p>&nbsp;2.0</p></td></tr></tbody></table><p><br></p>",
       "history": [
         {
           "attributesChanged": {
@@ -53,6 +53,17 @@
             "name": "T00755725"
           },
           "changedOn": "2026-10-01T20:37:31.341Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<p><a>Revision History</a></p><table><tbody><tr><td style=\"width:1.5in;\"><p><strong>Name</strong></p></td><td style=\"width:58.5pt;\"><p><strong>Date</strong></p></td><td style=\"width:247.7pt;\"><p><strong>Reason For Changes</strong></p></td><td style=\"width:1.1in;\"><p><strong>Version</strong></p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Esteban&nbsp;Flores</p></td><td style=\"width:58.5pt;\"><p>&nbsp;10/1/2026</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Initial Creation of Document</p></td><td style=\"width:1.1in;\"><p>&nbsp;1.0</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Esteban Flores</p></td><td style=\"width:58.5pt;\"><p>&nbsp;10/1/2026</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Scope and Limitations Section&nbsp;Complete</p></td><td style=\"width:1.1in;\"><p>&nbsp;2.0</p></td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "",
+            "email": "jacobfrancisd@gmail.com",
+            "name": "Jacob Dunn"
+          },
+          "changedOn": "2026-10-05T16:49:55.352Z"
         }
       ]
     },
@@ -62,11 +73,6 @@
       "heading": "Business Requirements",
       "children": [
         {
-          "id": "31",
-          "guid": "751bb5ad-781a-4812-bd8f-6765f7db775f",
-          "text": "<p>&lt;The business requirements provide the foundation and reference for all detailed requirements development. You may gather business requirements from the customer or development organization’s senior management, an executive sponsor, a project visionary, product owner, product manager, the marketing department, or other stakeholders who have a clear sense of why the project is being undertaken and the ultimate value it will provide, both to the business and to its customers.&gt;</p>"
-        },
-        {
           "id": "32",
           "guid": "e5b70fed-8296-4cd4-8676-894be717b76b",
           "heading": "Background",
@@ -74,7 +80,20 @@
             {
               "id": "33",
               "guid": "001c1420-4624-47d1-8cf7-3578002bed25",
-              "text": "<p>&lt;Summarize the rationale for the new product. Provide a general description of the history or situation that leads to the recognition that this product should be built.&gt;</p>"
+              "text": "<p>The city has lost its connection with a lot of volunteers due to the COVID pandemic. There is a shortage of daily care workers available to assist senior citizens who need support.</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Summarize the rationale for the new product. Provide a general description of the history or situation that leads to the recognition that this product should be built.&gt;</p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "jacobfrancisd@gmail.com",
+                    "name": "Jacob Dunn"
+                  },
+                  "changedOn": "2026-10-05T16:39:37.255Z"
+                }
+              ]
             }
           ]
         },
@@ -84,39 +103,94 @@
           "heading": "Business Problem or Opportunity",
           "children": [
             {
-              "id": "35",
-              "guid": "0157f0fd-f7e2-4645-9330-a0dd801ee1d4",
-              "text": "<p>&lt;Describe the business problem that is being solved or the business opportunity that exists. Describe the market in which a commercial product will be competing or the environment in which an information system will be used. This may include a brief comparative evaluation of existing products and potential solutions, indicating why the proposed product is attractive. Identify the problems that cannot currently be solved without the product, and how the product fits in with market trends or corporate strategic directions.</p>"
-            },
-            {
-              "id": "36",
-              "guid": "be908158-c08a-4cf2-a984-8cdf0e1c2ae6",
-              "text": "<p>This is a good template for a problem statement:</p>"
-            },
-            {
               "id": "37",
               "guid": "7cfd664c-dbca-4cd0-ad63-10adb11c22eb",
-              "text": "<p><strong><span style=\"color:windowtext;\">Situation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><em><span style=\"color:windowtext;\">Describe the background, context, and environment.</span></em></p>"
+              "text": "<p><strong><span style=\"color:windowtext;\">Situation&nbsp;</span></strong>The city faces an estimated 10,000 to 15,000 senior cases needing assistance, as well as elementary students who need dedicated coaching.</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">Situation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><em><span style=\"color:windowtext;\">Describe the background, context, and environment.</span></em></p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "jacobfrancisd@gmail.com",
+                    "name": "Jacob Dunn"
+                  },
+                  "changedOn": "2026-10-05T16:41:15.780Z"
+                }
+              ]
             },
             {
               "id": "38",
               "guid": "eed6a1b6-b893-4bea-959b-cca87819ef02",
-              "text": "<p><strong><span style=\"color:windowtext;\">Problem</span></strong><em><span style=\"color:windowtext;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Describe the business problem (or problems) as you now understand it</span></em></p>"
+              "text": "<p><strong><span style=\"color:windowtext;\">Problem</span></strong><em><span style=\"color:windowtext;\"> The current manual volunteer assignment process takes approximately two weeks because of the manual data submissions for police checks. There is also no centralized system to track demand against available volunteers.</span></em></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">Problem</span></strong><em><span style=\"color:windowtext;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Describe the business problem (or problems) as you now understand it</span></em></p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "jacobfrancisd@gmail.com",
+                    "name": "Jacob Dunn"
+                  },
+                  "changedOn": "2026-10-05T16:41:47.787Z"
+                }
+              ]
             },
             {
               "id": "39",
               "guid": "efeb1662-e78e-4a32-9174-9ca9c11d8515",
-              "text": "<p><strong><span style=\"color:windowtext;\">Implication</span></strong><em><span style=\"color:windowtext;\">&nbsp;&nbsp;&nbsp; Describe the likely results if the problem isn’t solved.</span></em></p>"
+              "text": "<p><strong><span style=\"color:windowtext;\">Implication</span></strong><em><span style=\"color:windowtext;\"> The lack of a centralized tracking system results in unexpected volunteer shortages and prevents the city from properly planning.</span></em></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">Implication</span></strong><em><span style=\"color:windowtext;\">&nbsp;&nbsp;&nbsp; Describe the likely results if the problem isn’t solved.</span></em></p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "jacobfrancisd@gmail.com",
+                    "name": "Jacob Dunn"
+                  },
+                  "changedOn": "2026-10-05T16:42:11.319Z"
+                }
+              ]
             },
             {
               "id": "40",
               "guid": "70dea6a2-20e3-431d-8ff8-18568c82d164",
-              "text": "<p><strong><span style=\"color:windowtext;\">Benefit</span></strong><em><span style=\"color:windowtext;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; State the business value of solving the problem.</span></em></p>"
+              "text": "<p><strong><span style=\"color:windowtext;\">Benefit</span></strong><em><span style=\"color:windowtext;\"> A centralized system will allow the city to accurately match volunteers to cases, provide wellness checks, and offer remote tutoring to elementary students.</span></em></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">Benefit</span></strong><em><span style=\"color:windowtext;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; State the business value of solving the problem.</span></em></p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "jacobfrancisd@gmail.com",
+                    "name": "Jacob Dunn"
+                  },
+                  "changedOn": "2026-10-05T16:42:31.617Z"
+                }
+              ]
             },
             {
               "id": "41",
               "guid": "c655a3ea-678a-423a-90a5-5a1647c86ccf",
-              "text": "<p><strong><span style=\"color:windowtext;\">Vision</span></strong><em><span style=\"color:windowtext;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Describe what the desired future state would look like.&gt;</span></em></p>"
+              "text": "<p><strong><span style=\"color:windowtext;\">Vision</span></strong><em><span style=\"color:windowtext;\"> A reliable, automated system that forecasts daily needs, prevents volunteer shortages, and creates a mutually beneficial platform for the community and local businesses.</span></em></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">Vision</span></strong><em><span style=\"color:windowtext;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Describe what the desired future state would look like.&gt;</span></em></p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "jacobfrancisd@gmail.com",
+                    "name": "Jacob Dunn"
+                  },
+                  "changedOn": "2026-10-05T16:42:47.447Z"
+                }
+              ]
             }
           ]
         },
@@ -128,7 +202,31 @@
             {
               "id": "43",
               "guid": "6e415742-1464-49a1-8dbf-dc15cf5fd75c",
-              "text": "<p>&lt;Describe the important business objectives of the product in a way that is quantitative and measurable. Focus on the value provided to the business, including estimates of revenue or cost savings, return on investment analysis, or target release dates.&gt;</p>"
+              "text": "<ul><li>Track 60% of the city’s senior cases within the system during its first year of operation.</li><li>Provide volunteer support to 85% of the reported senior cases within the first year.</li><li>Reduce the volunteer assignment timeframe to 30% of its current duration, ensuring seniors receive support within three days.</li><li>Increase business transactions in the Downtown area and at local shop s by 10% using engagement activities to lower the crime rate.</li></ul>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Describe the important business objectives of the product in a way that is quantitative and measurable. Focus on the value provided to the business, including estimates of revenue or cost savings, return on investment analysis, or target release dates.&gt;</p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "jacobfrancisd@gmail.com",
+                    "name": "Jacob Dunn"
+                  },
+                  "changedOn": "2026-10-05T16:43:38.437Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>·&nbsp;Track 60% of the city’s senior cases within the system during its first year of operation.</p><p>·&nbsp;Provide volunteer support to 85% of the reported senior cases within the first year.</p><p>·&nbsp;Reduce the volunteer assignment timeframe to 30% of its current duration, ensuring seniors receive support within three days.</p><p>· Increase business transactions in the Downtown area and at local shop s by 10% using engagement activities to lower the crime rate.</p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "jacobfrancisd@gmail.com",
+                    "name": "Jacob Dunn"
+                  },
+                  "changedOn": "2026-10-05T16:51:54.881Z"
+                }
+              ]
             }
           ]
         },
@@ -140,7 +238,31 @@
             {
               "id": "45",
               "guid": "c283f56c-4a97-423f-975f-3de74da50355",
-              "text": "<p>&lt; Determine how success will be defined and measured for this product. Describe the factors that are likely to have the greatest impact on achieving that success. Include things within the organization’s control as well as external factors. Establish measurable criteria to assess whether the business objectives have been met or whether the trends are moving in the desired direction toward the goal.&gt;</p>"
+              "text": "<ul><li>The percentage of the 10,000 to 15,000 estimated senior cases successfully tracked by the platform.</li><li>The percentage of tracked senior cases that successfully receive volunteer support services.</li><li>The reduction in processing time for volunteer assignments, with a three-day timeline.</li><li>The frequency of sudden volunteer shortages should occur less than two times per year.</li></ul>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt; Determine how success will be defined and measured for this product. Describe the factors that are likely to have the greatest impact on achieving that success. Include things within the organization’s control as well as external factors. Establish measurable criteria to assess whether the business objectives have been met or whether the trends are moving in the desired direction toward the goal.&gt;</p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "jacobfrancisd@gmail.com",
+                    "name": "Jacob Dunn"
+                  },
+                  "changedOn": "2026-10-05T16:43:58.033Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>·&nbsp;The percentage of the 10,000 to 15,000 estimated senior cases successfully tracked by the platform.</p><p>·&nbsp;The percentage of tracked senior cases that successfully receive volunteer support services.</p><p>·&nbsp;The reduction in processing time for volunteer assignments, with a three-day timeline.</p><p>· The frequency of sudden volunteer shortages should occur less than two times per year.</p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "jacobfrancisd@gmail.com",
+                    "name": "Jacob Dunn"
+                  },
+                  "changedOn": "2026-10-05T16:51:03.877Z"
+                }
+              ]
             }
           ]
         },
@@ -150,49 +272,163 @@
           "heading": "Vision Statement",
           "children": [
             {
-              "id": "47",
-              "guid": "5d0a93fe-0e55-4ce3-b2d2-cb0ded838523",
-              "text": "<p>&lt;Write a concise vision statement that summarizes the purpose and intent of the new product and describes what the world will be like when it includes the product. The vision statement should reflect a balanced view that will satisfy the needs of diverse stakeholders as well as those of the developing organization. The vision should be grounded in the realities of existing or anticipated customer markets, enterprise architectures, organizational strategic directions, and cost and resource limitations.</p>"
-            },
-            {
-              "id": "48",
-              "guid": "5af6efe7-7041-457a-90bf-630b0386be86",
-              "text": "<p>This is a good template for a vision statement:</p>"
-            },
-            {
               "id": "49",
               "guid": "2bb75411-6c90-46b5-a63c-a86b14e6a888",
-              "text": "<p><strong><span style=\"color:windowtext;\">For&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><em><span style=\"color:windowtext;\">target customer</span></em></p>"
+              "text": "<p><strong><span style=\"color:windowtext;\">For&nbsp;</span></strong>The municipal administration, senior citizens, and elementary students</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">For&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><em><span style=\"color:windowtext;\">target customer</span></em></p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "jacobfrancisd@gmail.com",
+                    "name": "Jacob Dunn"
+                  },
+                  "changedOn": "2026-10-05T16:45:51.683Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">For&nbsp;</span></strong>· The municipal administration, senior citizens, and elementary students</p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "jacobfrancisd@gmail.com",
+                    "name": "Jacob Dunn"
+                  },
+                  "changedOn": "2026-10-05T16:46:07.530Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">For&nbsp;</span></strong> The municipal administration, senior citizens, and elementary students</p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "jacobfrancisd@gmail.com",
+                    "name": "Jacob Dunn"
+                  },
+                  "changedOn": "2026-10-05T16:46:26.480Z"
+                }
+              ]
             },
             {
               "id": "50",
               "guid": "e8b72219-1f51-4501-9d5c-179733d9cdab",
-              "text": "<p><strong><span style=\"color:windowtext;\">Who&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><em><span style=\"color:windowtext;\">statement of the need or opportunity</span></em></p>"
+              "text": "<p><strong><span style=\"color:windowtext;\">Who </span></strong><span style=\"color:windowtext;\">Need reliable access to volunteer services and efficient resource planning</span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">Who&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><em><span style=\"color:windowtext;\">statement of the need or opportunity</span></em></p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "jacobfrancisd@gmail.com",
+                    "name": "Jacob Dunn"
+                  },
+                  "changedOn": "2026-10-05T16:46:46.390Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">Who &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></strong><span style=\"color:windowtext;\">&nbsp; &nbsp;Need reliable access to volunteer services and efficient resource planning</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "jacobfrancisd@gmail.com",
+                    "name": "Jacob Dunn"
+                  },
+                  "changedOn": "2026-10-05T16:46:55.439Z"
+                }
+              ]
             },
             {
               "id": "51",
               "guid": "6292fe43-8a84-4d5a-b674-ae5dc65122e4",
-              "text": "<p><strong><span style=\"color:windowtext;\">The&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><em><span style=\"color:windowtext;\">product name</span></em></p>"
+              "text": "<p><strong><span style=\"color:windowtext;\">The </span></strong><span style=\"color:windowtext;\">Volunteer Management System</span></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">The&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><em><span style=\"color:windowtext;\">product name</span></em></p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "jacobfrancisd@gmail.com",
+                    "name": "Jacob Dunn"
+                  },
+                  "changedOn": "2026-10-05T16:47:17.898Z"
+                }
+              ]
             },
             {
               "id": "52",
               "guid": "6a4a4a49-cacb-44f2-91ff-47e0c0953b4d",
-              "text": "<p><strong><span style=\"color:windowtext;\">Is&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><em><span style=\"color:windowtext;\">product category</span></em></p>"
+              "text": "<p><strong><span style=\"color:windowtext;\">Is&nbsp;</span></strong>A centralized tracking and assignment platform</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">Is&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><em><span style=\"color:windowtext;\">product category</span></em></p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "jacobfrancisd@gmail.com",
+                    "name": "Jacob Dunn"
+                  },
+                  "changedOn": "2026-10-05T16:47:31.908Z"
+                }
+              ]
             },
             {
               "id": "53",
               "guid": "9daa1684-282e-4a1a-89e1-6a5b5fe54851",
-              "text": "<p><strong><span style=\"color:windowtext;\">That&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><em><span style=\"color:windowtext;\">major capabilities, key benefit, compelling reason to buy or use</span></em></p>"
+              "text": "<p><strong><span style=\"color:windowtext;\">That&nbsp;</span></strong>Automates volunteer matching, forecasts needed cases weekly, and ensures all volunteers pass a background check</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">That&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><em><span style=\"color:windowtext;\">major capabilities, key benefit, compelling reason to buy or use</span></em></p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "jacobfrancisd@gmail.com",
+                    "name": "Jacob Dunn"
+                  },
+                  "changedOn": "2026-10-05T16:47:59.297Z"
+                }
+              ]
             },
             {
               "id": "54",
               "guid": "9d10bba4-dea3-4503-af4d-f1bf0d7d1536",
-              "text": "<p><strong><span style=\"color:windowtext;\">Unlike</span></strong><em><span style=\"color:windowtext;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; primary competitive alternative, current system, current business process</span></em></p>"
+              "text": "<p><strong><span style=\"color:windowtext;\">Unlike&nbsp;</span></strong><em><span style=\"color:windowtext;\">The current manual assignment process that lacks a centralized data system and takes up to two weeks</span></em></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">Unlike</span></strong><em><span style=\"color:windowtext;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; primary competitive alternative, current system, current business process</span></em></p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "jacobfrancisd@gmail.com",
+                    "name": "Jacob Dunn"
+                  },
+                  "changedOn": "2026-10-05T16:48:21.462Z"
+                }
+              ]
             },
             {
               "id": "55",
               "guid": "035164f7-f07a-4238-bf74-a981cdafef65",
-              "text": "<p><strong><span style=\"color:windowtext;\">Our product</span></strong><em><span style=\"color:windowtext;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; statement of primary differentiation and advantages of new product</span></em><span style=\"color:windowtext;\">&gt;</span></p>"
+              "text": "<p><strong><span style=\"color:windowtext;\">Our product</span></strong><em><span style=\"color:windowtext;\"> Reduces assignment times to three days, integrates with automated background checks, and notifies admins daily to prevent volunteer shortages</span></em></p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong><span style=\"color:windowtext;\">Our product</span></strong><em><span style=\"color:windowtext;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; statement of primary differentiation and advantages of new product</span></em><span style=\"color:windowtext;\">&gt;</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "jacobfrancisd@gmail.com",
+                    "name": "Jacob Dunn"
+                  },
+                  "changedOn": "2026-10-05T16:48:34.825Z"
+                }
+              ]
             }
           ]
         },
@@ -204,7 +440,31 @@
             {
               "id": "57",
               "guid": "8be42896-50c3-43f3-88af-2161dceb7e9b",
-              "text": "<p>&lt;Summarize the major business risks associated with developing this product, such as marketplace competition, timing issues, user acceptance, implementation issues, or possible negative impacts on the business. Estimate the severity of the risks and identify any risk mitigation actions that could be taken.&gt;</p>"
+              "text": "<ul><li>A sudden shortage of volunteers could disrupt services if the system fails to accurately predict need.</li><li>The government automated background check system is currently under testing, any delays in this could delay the goal of processing background checks within 48 hours.</li></ul>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Summarize the major business risks associated with developing this product, such as marketplace competition, timing issues, user acceptance, implementation issues, or possible negative impacts on the business. Estimate the severity of the risks and identify any risk mitigation actions that could be taken.&gt;</p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "jacobfrancisd@gmail.com",
+                    "name": "Jacob Dunn"
+                  },
+                  "changedOn": "2026-10-05T16:44:54.300Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>·&nbsp;A sudden shortage of volunteers could disrupt services if the system fails to accurately predict need.</p><p>· The government automated background check system is currently under testing, any delays in this could delay the goal of processing background checks within 48 hours.</p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "jacobfrancisd@gmail.com",
+                    "name": "Jacob Dunn"
+                  },
+                  "changedOn": "2026-10-05T16:51:21.464Z"
+                }
+              ]
             }
           ]
         },
@@ -216,7 +476,31 @@
             {
               "id": "59",
               "guid": "4bf5acac-16c3-4ba2-a50a-b5003abc2d40",
-              "text": "<p>&lt;Record any assumptions that were made when conceiving the project and preparing this document. Note any major dependencies the project must rely upon for success, such as specific technologies, third-party vendors, development partners, or other business relationships.&gt;</p>"
+              "text": "<ul><li><strong>Assumption 1:&nbsp;</strong>Engaging volunteers in activities will reduce the city crime rate and will subsequently boost the downtown business by 10%.</li><li><strong>Assumption 2:&nbsp;</strong>Local business owners will act as sponsors by offering promotions and incentives to motivate the volunteers.</li><li><strong>Dependency 1:&nbsp;</strong>The project relies on the government’s new background check system becoming available to automate police certificate processing within 48 hours.</li><li><strong>Dependency 2:&nbsp;</strong>Volunteers assigned to elementary students must possess minimum educational skills and successfully pass a police certificate check.</li></ul>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Record any assumptions that were made when conceiving the project and preparing this document. Note any major dependencies the project must rely upon for success, such as specific technologies, third-party vendors, development partners, or other business relationships.&gt;</p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "jacobfrancisd@gmail.com",
+                    "name": "Jacob Dunn"
+                  },
+                  "changedOn": "2026-10-05T16:45:11.564Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>· <strong>Assumption 1:&nbsp;</strong>Engaging volunteers in activities will reduce the city crime rate and will subsequently boost the downtown business by 10%.</p><p>· <strong>Assumption 2:&nbsp;</strong>Local business owners will act as sponsors by offering promotions and incentives to motivate the volunteers.</p><p>· <strong>Dependency 1:&nbsp;</strong>The project relies on the government’s new background check system becoming available to automate police certificate processing within 48 hours.</p><p>· <strong>Dependency 2:&nbsp;</strong>Volunteers assigned to elementary students must possess minimum educational skills and successfully pass a police certificate check.</p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "jacobfrancisd@gmail.com",
+                    "name": "Jacob Dunn"
+                  },
+                  "changedOn": "2026-10-05T16:51:36.022Z"
+                }
+              ]
             }
           ]
         }
