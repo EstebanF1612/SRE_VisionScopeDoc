@@ -10,6 +10,110 @@
       "target": "Referenced by"
     }
   },
+  "integrations": {
+    "reqif": {
+      "datatypes": {
+        "_0012f3cc-e2fa-4d58-b1b9-3f8209452bad": {
+          "lastChange": "2022-03-01T00:00:00.000Z",
+          "longName": "XHTMLString",
+          "reqviewCommon": true,
+          "type": "XHTML"
+        },
+        "_3da04415-68eb-4277-9bd3-7d6fcbe88e6d": {
+          "lastChange": "2022-03-01T00:00:00.000Z",
+          "longName": "String",
+          "reqviewCommon": true,
+          "type": "STRING"
+        },
+        "_967e0139-c6a3-4fc7-8ac2-a1694f6f454a": {
+          "lastChange": "2022-03-01T00:00:00.000Z",
+          "longName": "DateTime",
+          "reqviewCommon": true,
+          "type": "DATE"
+        }
+      },
+      "specTypes": {
+        "_58590d93-0515-4f34-af2a-38bbb4039d59": {
+          "lastChange": "2026-10-05T17:13:43.033Z",
+          "longName": "VSD Type",
+          "specAttributes": {
+            "_12516751-9abd-45b2-b19d-d318005352e5": {
+              "datatypeRef": "_0012f3cc-e2fa-4d58-b1b9-3f8209452bad",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.Description",
+              "reqviewAttrId": "name",
+              "type": "XHTML"
+            },
+            "_26088f02-9769-4e5c-9212-11f176649b58": {
+              "datatypeRef": "_3da04415-68eb-4277-9bd3-7d6fcbe88e6d",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.ForeignModifiedBy",
+              "reqviewAttrId": "lastChangedBy",
+              "type": "STRING"
+            },
+            "_722c454d-873e-4855-aea7-c71fed123d13": {
+              "datatypeRef": "_967e0139-c6a3-4fc7-8ac2-a1694f6f454a",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.ForeignCreatedOn",
+              "reqviewAttrId": "createdOn",
+              "type": "DATE"
+            },
+            "_7577d014-f9d0-4078-8687-75e0b7f9af4a": {
+              "datatypeRef": "_3da04415-68eb-4277-9bd3-7d6fcbe88e6d",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.ForeignID",
+              "reqviewAttrId": "id",
+              "type": "STRING"
+            },
+            "_fa009266-3c26-4039-a015-31a4d09241d2": {
+              "datatypeRef": "_3da04415-68eb-4277-9bd3-7d6fcbe88e6d",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.ForeignCreatedBy",
+              "reqviewAttrId": "createdBy",
+              "type": "STRING"
+            }
+          },
+          "type": "SPECIFICATION-TYPE"
+        },
+        "_e6a2df93-b59d-4798-9699-dd28523cd139": {
+          "lastChange": "2026-10-05T17:13:43.033Z",
+          "longName": "VSD Object Type",
+          "specAttributes": {
+            "_06442fcc-cecc-40d3-8528-322ea4a4346d": {
+              "datatypeRef": "_3da04415-68eb-4277-9bd3-7d6fcbe88e6d",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.ChapterName",
+              "reqviewAttrId": "heading",
+              "type": "STRING"
+            },
+            "_0a0db588-0608-4627-b0d2-ce76fa8822c3": {
+              "datatypeRef": "_0012f3cc-e2fa-4d58-b1b9-3f8209452bad",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.Text",
+              "reqviewAttrId": "text",
+              "type": "XHTML"
+            },
+            "_bda27465-a653-4c30-b6de-a62ffe7b6700": {
+              "datatypeRef": "_3da04415-68eb-4277-9bd3-7d6fcbe88e6d",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.ForeignID",
+              "reqviewAttrId": "id",
+              "type": "STRING"
+            }
+          },
+          "type": "SPEC-OBJECT-TYPE"
+        }
+      }
+    }
+  },
   "metadata": {
     "format": "2.22",
     "saveHistory": true
